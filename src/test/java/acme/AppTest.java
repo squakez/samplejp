@@ -11,6 +11,6 @@ public class AppTest {
 
     @Test
     public void shouldCapitalize(){
-        assertEquals( "v1.0.0:HELLO", App.capitalize("hello") );
+        assertEquals( "v1.0.0-SNAPSHOT:HELLO", App.capitalize("hello") );
     }
 }
