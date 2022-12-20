@@ -5,16 +5,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>acme</groupId>
-  <artifactId>samplejp</artifactId>
+  <artifactId>samplejpb</artifactId>
   <version>1.0</version>
-  <packaging>pom</packaging>
 
-  <name>samplejp</name>
-
-  <modules>
-    <module>a</module>
-    <module>b</module>
-  </modules>
+  <name>samplejpa</name>
 
   <dependencies>
     <dependency>

@@ -1,4 +1,4 @@
-package acme;
+package acmea;
 
 import static org.junit.Assert.assertEquals;
 
@@ -7,10 +7,10 @@ import org.junit.Test;
 /**
  * Unit test for simple App.
  */
-public class AppTest {
+public class AppATest {
 
     @Test
     public void shouldCapitalize(){
-        assertEquals( "HELLO", App.capitalize("hello") );
+        assertEquals( "A: HELLO", AppA.capitalize("hello") );
     }
 }
